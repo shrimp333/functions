@@ -1,0 +1,16 @@
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\obj\Debug\net5.0\space counter task 4.csproj.AssemblyReference.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\obj\Debug\net5.0\space counter task 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\obj\Debug\net5.0\space counter task 4.AssemblyInfoInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\obj\Debug\net5.0\space counter task 4.AssemblyInfo.cs
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\obj\Debug\net5.0\space counter task 4.csproj.CoreCompileInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\bin\Debug\net5.0\space counter task 4.exe
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\bin\Debug\net5.0\space counter task 4.deps.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\bin\Debug\net5.0\space counter task 4.runtimeconfig.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\bin\Debug\net5.0\space counter task 4.runtimeconfig.dev.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\bin\Debug\net5.0\space counter task 4.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\bin\Debug\net5.0\space counter task 4.pdb
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\obj\Debug\net5.0\space counter task 4.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\obj\Debug\net5.0\refint\space counter task 4.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\obj\Debug\net5.0\space counter task 4.pdb
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\obj\Debug\net5.0\space counter task 4.genruntimeconfig.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\space counter task 4\obj\Debug\net5.0\ref\space counter task 4.dll
