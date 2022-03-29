@@ -1,0 +1,16 @@
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\bin\Debug\net5.0\powers task 7.exe
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\bin\Debug\net5.0\powers task 7.deps.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\bin\Debug\net5.0\powers task 7.runtimeconfig.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\bin\Debug\net5.0\powers task 7.runtimeconfig.dev.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\bin\Debug\net5.0\powers task 7.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\bin\Debug\net5.0\powers task 7.pdb
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\obj\Debug\net5.0\powers task 7.csproj.AssemblyReference.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\obj\Debug\net5.0\powers task 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\obj\Debug\net5.0\powers task 7.AssemblyInfoInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\obj\Debug\net5.0\powers task 7.AssemblyInfo.cs
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\obj\Debug\net5.0\powers task 7.csproj.CoreCompileInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\obj\Debug\net5.0\powers task 7.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\obj\Debug\net5.0\refint\powers task 7.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\obj\Debug\net5.0\powers task 7.pdb
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\obj\Debug\net5.0\powers task 7.genruntimeconfig.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\powers task 7\obj\Debug\net5.0\ref\powers task 7.dll

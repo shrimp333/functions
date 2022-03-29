@@ -1,0 +1,16 @@
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\bin\Debug\net5.0\fibonacci task 8.exe
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\bin\Debug\net5.0\fibonacci task 8.deps.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\bin\Debug\net5.0\fibonacci task 8.runtimeconfig.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\bin\Debug\net5.0\fibonacci task 8.runtimeconfig.dev.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\bin\Debug\net5.0\fibonacci task 8.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\bin\Debug\net5.0\fibonacci task 8.pdb
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\obj\Debug\net5.0\fibonacci task 8.csproj.AssemblyReference.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\obj\Debug\net5.0\fibonacci task 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\obj\Debug\net5.0\fibonacci task 8.AssemblyInfoInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\obj\Debug\net5.0\fibonacci task 8.AssemblyInfo.cs
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\obj\Debug\net5.0\fibonacci task 8.csproj.CoreCompileInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\obj\Debug\net5.0\fibonacci task 8.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\obj\Debug\net5.0\refint\fibonacci task 8.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\obj\Debug\net5.0\fibonacci task 8.pdb
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\obj\Debug\net5.0\fibonacci task 8.genruntimeconfig.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\fibonacci task 8\obj\Debug\net5.0\ref\fibonacci task 8.dll

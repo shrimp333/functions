@@ -1,0 +1,16 @@
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\obj\Debug\net5.0\is prime task 9.csproj.AssemblyReference.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\obj\Debug\net5.0\is prime task 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\obj\Debug\net5.0\is prime task 9.AssemblyInfoInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\obj\Debug\net5.0\is prime task 9.AssemblyInfo.cs
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\obj\Debug\net5.0\is prime task 9.csproj.CoreCompileInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\bin\Debug\net5.0\is prime task 9.exe
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\bin\Debug\net5.0\is prime task 9.deps.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\bin\Debug\net5.0\is prime task 9.runtimeconfig.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\bin\Debug\net5.0\is prime task 9.runtimeconfig.dev.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\bin\Debug\net5.0\is prime task 9.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\bin\Debug\net5.0\is prime task 9.pdb
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\obj\Debug\net5.0\is prime task 9.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\obj\Debug\net5.0\refint\is prime task 9.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\obj\Debug\net5.0\is prime task 9.pdb
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\obj\Debug\net5.0\is prime task 9.genruntimeconfig.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\is prime task 9\obj\Debug\net5.0\ref\is prime task 9.dll

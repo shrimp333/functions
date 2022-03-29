@@ -14,3 +14,19 @@ C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask
 C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array\obj\Debug\net5.0\calculate array.pdb
 C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array\obj\Debug\net5.0\calculate array.genruntimeconfig.cache
 C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array\obj\Debug\net5.0\ref\calculate array.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\bin\Debug\net5.0\calculate array.exe
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\bin\Debug\net5.0\calculate array.deps.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\bin\Debug\net5.0\calculate array.runtimeconfig.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\bin\Debug\net5.0\calculate array.runtimeconfig.dev.json
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\bin\Debug\net5.0\calculate array.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\bin\Debug\net5.0\calculate array.pdb
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\obj\Debug\net5.0\calculate array.csproj.AssemblyReference.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\obj\Debug\net5.0\calculate array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\obj\Debug\net5.0\calculate array.AssemblyInfoInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\obj\Debug\net5.0\calculate array.AssemblyInfo.cs
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\obj\Debug\net5.0\calculate array.csproj.CoreCompileInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\obj\Debug\net5.0\calculate array.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\obj\Debug\net5.0\refint\calculate array.dll
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\obj\Debug\net5.0\calculate array.pdb
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\obj\Debug\net5.0\calculate array.genruntimeconfig.cache
+C:\Users\luke1\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\calculate array task 5\obj\Debug\net5.0\ref\calculate array.dll

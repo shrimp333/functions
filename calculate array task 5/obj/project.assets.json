@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luke1\\OneDrive - Swinburne University\\PortableGit\\project\\functionstask\\functions\\calculate array\\calculate array.csproj",
+      "projectUniqueName": "C:\\Users\\luke1\\OneDrive - Swinburne University\\PortableGit\\project\\functionstask\\functions\\calculate array task 5\\calculate array.csproj",
       "projectName": "calculate array",
-      "projectPath": "C:\\Users\\luke1\\OneDrive - Swinburne University\\PortableGit\\project\\functionstask\\functions\\calculate array\\calculate array.csproj",
+      "projectPath": "C:\\Users\\luke1\\OneDrive - Swinburne University\\PortableGit\\project\\functionstask\\functions\\calculate array task 5\\calculate array.csproj",
       "packagesPath": "C:\\Users\\luke1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luke1\\OneDrive - Swinburne University\\PortableGit\\project\\functionstask\\functions\\calculate array\\obj\\",
+      "outputPath": "C:\\Users\\luke1\\OneDrive - Swinburne University\\PortableGit\\project\\functionstask\\functions\\calculate array task 5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luke1\\AppData\\Roaming\\NuGet\\NuGet.Config",
