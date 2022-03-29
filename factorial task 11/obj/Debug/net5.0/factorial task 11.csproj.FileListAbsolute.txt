@@ -1,0 +1,16 @@
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\bin\Debug\net5.0\factorial task 11.exe
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\bin\Debug\net5.0\factorial task 11.deps.json
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\bin\Debug\net5.0\factorial task 11.runtimeconfig.json
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\bin\Debug\net5.0\factorial task 11.runtimeconfig.dev.json
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\bin\Debug\net5.0\factorial task 11.dll
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\bin\Debug\net5.0\ref\factorial task 11.dll
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\bin\Debug\net5.0\factorial task 11.pdb
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\obj\Debug\net5.0\factorial task 11.csproj.AssemblyReference.cache
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\obj\Debug\net5.0\factorial task 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\obj\Debug\net5.0\factorial task 11.AssemblyInfoInputs.cache
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\obj\Debug\net5.0\factorial task 11.AssemblyInfo.cs
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\obj\Debug\net5.0\factorial task 11.csproj.CoreCompileInputs.cache
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\obj\Debug\net5.0\factorial task 11.dll
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\obj\Debug\net5.0\ref\factorial task 11.dll
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\obj\Debug\net5.0\factorial task 11.pdb
+C:\Users\103056462\OneDrive - Swinburne University\PortableGit\project\functionstask\functions\factorial task 11\obj\Debug\net5.0\factorial task 11.genruntimeconfig.cache

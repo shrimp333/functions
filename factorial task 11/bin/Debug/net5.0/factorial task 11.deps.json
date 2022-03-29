@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "factorial task 11/1.0.0": {
+        "runtime": {
+          "factorial task 11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "factorial task 11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
